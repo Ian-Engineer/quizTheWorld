@@ -134,9 +134,9 @@ Once the user is registered, they will be signed in automatically.  Regardless o
 
  > * **[Ian Swensson](https://www.linkedin.com/)** Project Manager
 
- > * **[Andrew Bunys](https://www.linkedin.com/)** job title
+ > * **[Andrew Bunys](https://www.linkedin.com/)** UI/UX Designer
 
- > * **[John Duval](https://www.linkedin.com/)** job title
+ > * **[John Duval](https://www.linkedin.com/)** UI/UX Designer
 
  > * **[Jack Dowling](https://www.linkedin.com/in/jackmdowling/)** System Architect
 
